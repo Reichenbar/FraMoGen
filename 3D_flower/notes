@@ -1,0 +1,7 @@
+change the left gripper weight to 0.8
+measure the bottom center of the right vase
+measure the local position of the flower end in the right gripper frame
+	make the right gripper back to the initial pose
+	calculate the global position using the measured bottom center
+	calculate the local position using the initial gripper pose
+the last four have better quality
